@@ -1,0 +1,57 @@
+{
+  "input_date": "2026-06-22",
+  "job_count": 3,
+  "results": [
+    {
+      "recommended_resume": "Awheeler_Implementations_Operations_Resume.docx",
+      "confidence": 0.95,
+      "skills_additions": [
+        "Telecom Expense Management",
+        "CRM Software (Salesforce)",
+        "Understanding Telecom and Data Bills"
+      ],
+      "skills_removals": [
+        "Workflow Automation",
+        "Technical Operations",
+        "Project Coordination",
+        "Reporting"
+      ],
+      "flags": [],
+      "company": "[TEM]",
+      "title": "Unknown"
+    },
+    {
+      "recommended_resume": "Awheeler_Operations_Leadership_Resume.docx",
+      "confidence": 0.95,
+      "skills_additions": [
+        "Team Leadership",
+        "Motivating Teams",
+        "Safety Management"
+      ],
+      "skills_removals": [
+        "Workflow Automation",
+        "Technical Operations",
+        "Event Coordination"
+      ],
+      "flags": [],
+      "company": "Amazon",
+      "title": "Area Manager"
+    },
+    {
+      "recommended_resume": "Awheeler_Program_Coordinator_Resume.docx",
+      "confidence": 0.95,
+      "skills_additions": [
+        "Project Management Methodologies (Agile, Waterfall)",
+        "MS Project",
+        "Jira"
+      ],
+      "skills_removals": [
+        "Python",
+        "n8n"
+      ],
+      "flags": [],
+      "company": "HCL",
+      "title": "Project Coordinator"
+    }
+  ]
+}
